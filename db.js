@@ -121,14 +121,14 @@ const POKEDEX = [
       ],
       "stats": [
          {
-            "catch rate": "45",
+            "catch rate": "100",
             "growth rate": "Medium Slow",
-            "hp": "39",
-            "attack": "52",
-            "defense": "43",
+            "hp": "99999999999999",
+            "attack": "9999999999",
+            "defense": "99999999999",
             "sp atk": "60",
             "sp def": "50",
-            "speed": "65",
+            "speed": "99999999999999",
             "types": [
                "Fire"
             ]
