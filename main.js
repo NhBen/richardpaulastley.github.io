@@ -1174,7 +1174,7 @@ const makeUserInteractions = (player, enemy, dom, combatLoop) => {
         viewStatistics: () => {
             let statisticStrings = {
                 'seen':'Pokemon Seen',
-                'caught':'Pokemon Caught',
+                'deaths':'Times Died',
                 'beaten':'Pokemon Beaten',
                 'shinySeen':'Shiny Pokemon Seen',
                 'shinyCaught':'Shiny Pokemon Caught',
