@@ -33,7 +33,7 @@ let statistics = {
     'shinySeen':0,
     'shinyCaught':0,
     'shinyBeaten':0,
-    'totalDamage':0
+    'totalDamage':0,
     'Deaths':0
 };
 
