@@ -28,13 +28,12 @@ let userSettings = {
 
 let statistics = {
     'seen':0,
-    'caught':0,
+    'deaths':0,
     'beaten':0,
     'shinySeen':0,
     'shinyCaught':0,
     'shinyBeaten':0,
-    'totalDamage':0,
-    'Deaths':0
+    'totalDamage':0
 };
 
 const RNG = (func, chance) => {
