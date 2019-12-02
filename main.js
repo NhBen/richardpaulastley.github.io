@@ -34,6 +34,7 @@ let statistics = {
     'shinyCaught':0,
     'shinyBeaten':0,
     'totalDamage':0
+    'Deaths':0
 };
 
 const RNG = (func, chance) => {
